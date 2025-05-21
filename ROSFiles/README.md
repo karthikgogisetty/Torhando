@@ -35,9 +35,6 @@ Simulate and develop robot autonomy using:
   - Custom `position_controller` node for velocity commands
   - Uses odometry as feedback
   - Visualized in RViz
-
-<p align="center"><img src="./README_images/path_cl.png" width="450"></p>
-
 ---
 
 ### 🔵 Level 4 Autonomy: Navigation Stack
@@ -49,13 +46,9 @@ Simulate and develop robot autonomy using:
   - `navfn` as the global planner
   - `amcl` for localization
 
-<p align="center"><img src="./README_images/final.png" width="550"></p>
-
 ---
 
 ## 🧭 Move Base Architecture
-
-<p align="center"><img src="./README_images/move_base_ov.png" width="500"></p>
 
 - **Costmaps**: Global + local costmaps updated with laser and depth data
 - **Obstacle Avoidance**: Inflated grid zones prevent collisions
@@ -69,8 +62,6 @@ Simulate and develop robot autonomy using:
 |--------|-------------|
 | Global | Map-based planning |
 | Local  | Real-time reactive planning |
-
-<p align="center"><img src="./README_images/global.png" width="300"> <img src="./README_images/local.png" width="300"></p>
 
 ---
 

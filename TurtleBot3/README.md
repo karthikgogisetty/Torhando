@@ -60,4 +60,4 @@ The PI controller ensures smooth convergence to the goal. The test videos show: 
 Gradual slowdown as it nears target, Repeatable stable performance
 
 ## Scope
-Integrate with my [**_ArdiunoPlaybook**](https://github.com/karthikgogisetty/_ArduinoPlayground/tree/main) Code of PID](https://github.com/karthikgogisetty/_ArduinoPlayground/tree/main/PID_) 
+Integrate with my [**_ArdiunoPlaybook**](https://github.com/karthikgogisetty/_ArduinoPlayground/tree/main) [Code of PID](https://github.com/karthikgogisetty/_ArduinoPlayground/tree/main/PID_) 

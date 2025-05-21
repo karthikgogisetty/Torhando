@@ -66,4 +66,4 @@ Project built by my team from Mechatronics Department, MAHE as part of academic 
 - @arthurgomes4
 - @Tejal-V-Shetty
 
-**Note:** please check the old repo for a more detailed contribution: [Not maintained Torhando repo](https://github.com/KarthikGogisetty07/TorHando)
+**Note:** Please check the **OLD Repo** for a *more detailed* *contribution* & files regarding **TurtleBot3 & ROSFiles** in: [Not maintained Torhando repo](https://github.com/KarthikGogisetty07/TorHando)

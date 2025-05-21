@@ -83,28 +83,22 @@ source devel/setup.bash
 roslaunch torhando torhando_world.launch
 ```
 
-🧠 Concepts Covered
-Odometry Feedback
+## 🧠 Concepts Covered
 
-Differential Drive Kinematics
+- Odometry Feedback
+- Differential Drive Kinematics
+- PI Control
+- ROS Navigation Stack
+- Sensor Fusion (LaserScan + Depth)
+- DWA and Global Planning
 
-PI Control
+## 📎 Related Folders
 
-ROS Navigation Stack
-
-Sensor Fusion (LaserScan + Depth)
-
-DWA and Global Planning
-
-📎 Related Folders
 **RPi4:** For physical end-effector testing
-
 **TurtleBot3:** TurtleBot3 simulation
-
 **CAD:** 3D printed parts used for testing
-
 **Arduino:** Low-level actuator control
 
-🔗 References
+## 🔗 References
 - http://wiki.ros.org/move_base
 - http://wiki.ros.org/dwa_local_planner

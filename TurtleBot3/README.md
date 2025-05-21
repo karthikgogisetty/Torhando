@@ -50,14 +50,10 @@ Implements PI logic:
 `integral` += **error**
 `control_signal` = `Kp` * `error` + `Ki` * `integral`
 
-
 ## 📊 PID Theory Summary
 * *P (Proportional):* Immediate reaction to error
 * *I (Integral):* Eliminates steady-state error
 * *D (Derivative):* (Optional) Prevents overshooting
-
-<p align="center"><img src="https://user-images.githubusercontent.com/69350191/143901751-93d4c61a-4e6a-4de0-a893-d001ea6e8efa.png" width="500"></p>
-
 
 ## 🎥 Output
 The PI controller ensures smooth convergence to the goal. The test videos show: Minimal deviation
